@@ -20,8 +20,7 @@
 
 *After this lesson, students will be able to:*
 1. **Define** feature engineering and **identify** use-cases.
-2. **Engineer** features 
-3. **Implement** feature scaling and feature selection methods.
+2. **Engineer** features.
 
 ---
 
@@ -38,16 +37,11 @@
 
 > **Total Time: 90 mins**
 
-I. **Regression Review** (10 minutes total)
-- Simple Linear Regression
-- Multiple Linear Regression
-- Multicollinearity and Indicator Variables
+I. **Regression Review** (20 minutes total)
 
-II. **Feature Engineering** (80 minutes total)
+II. **Feature Engineering** (70 minutes total)
 - Why?
-- Feature Engineering
-- Feature Scaling
-- Feature Selection Methods
+- Feature Engineering Methods
 
 ---
 
