@@ -1,18 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 3.03 - Feature Engineering 
-
-> Week 3, Lesson 3
-
----
-
-## Materials We Provide
-
-
-| Topic | Description | Link |
-| --- | --- | --- |
-| Lesson | Feature Engineering Notes | [Link](./feature-engineering.ipynb)|
-| Lab | Feature Engineering Lab | [Link](https://git.generalassemb.ly/DSI-EAST-2/3.03-feature-engineering-lab) |
-
-> **Dataset description:** Forest Fire Dataset
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Feature Engineering
 
 ---
 
