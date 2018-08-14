@@ -14,7 +14,7 @@
 
 *Before this lesson(s), students should already be able to:*
 
-1. Define, interpret and calculate loss/error metrics MSE and $R^2$
+1. Define, interpret and calculate loss/error metrics MSE and R2
 2. Construct and interpret regression models in `sklearn` and `statsmodels`.
 
 ---
