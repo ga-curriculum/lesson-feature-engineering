@@ -7,6 +7,7 @@
 *After this lesson, students will be able to:*
 1. **Define** feature engineering and **identify** use-cases.
 2. **Engineer** features.
+3. Effectively use `sklearn` transformers and describe how they are different from estimators
 
 ---
 
